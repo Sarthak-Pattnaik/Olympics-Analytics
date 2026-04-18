@@ -1,0 +1,29 @@
+{
+    "name": "Olympic Official Theme",
+    "dataColors": [
+        "#0081C8", 
+        "#EE334E", 
+        "#00A651", 
+        "#FCB131", 
+        "#2F2F2F", 
+        "#494949", 
+        "#737373", 
+        "#A1A1A1"
+    ],
+    "visualStyles": {
+        "*": {
+            "*": {
+                "visualHeader": [{
+                    "show": true
+                }],
+                "background": [{
+                    "show": true,
+                    "transparency": 0
+                }],
+                "border": [{
+                    "show": false
+                }]
+            }
+        }
+    }
+}
