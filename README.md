@@ -49,8 +49,8 @@ This project presents a comprehensive analysis of Olympic data from 1896 to 2016
 
 * `Olympics_Data_Analysis_Capstone_Project.pbix` → Power BI dashboard
 * `athlete_events.csv` → Dataset for Athlete Records
-* `HostMapping.csv` -> Dataset for Host Cities
-* `Project Documentation.pdf` -> Project Documentation
-* `olympic_theme.json` -> Olympic theme colours
+* `HostMapping.csv` → Dataset for Host Cities
+* `Project Documentation.pdf` → Project Documentation
+* `olympic_theme.json` → Olympic theme colours
 * `images/` → Folder for images used in report
-* `screenshots/` -> Report screenshots
+* `screenshots/` → Report screenshots
