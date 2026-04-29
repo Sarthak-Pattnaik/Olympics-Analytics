@@ -24,6 +24,18 @@ This project presents a comprehensive analysis of Olympic data from 1896 to 2016
 <h3>Page 2 – Participation & Gender Analysis</h3>
 <img src="screenshots/Participation_Gender_Analysis.png" width="800">
 
+<h3>Page 3 - Country Performance & Dominance</h3>
+<img src="screenshots/Country_Performance.png" width="800">
+
+<h3>Page 4 - Sports & Event Analysis</h3>
+<img src="screenshots/Sports_Event_Analysis.png" width="800">
+
+<h3>Page 5 - Athlete Insights</h3>
+<img src="screenshots/Athlete_Insights.png" width="800">
+
+<h3>Page 6 - Advanced Insights & Conclusions</h3>
+<img src="screenshots/Advanced_Insights.png" width="800">
+
 ## 🚀 Key Insights
 
 * Participation has grown significantly since 1980, reflecting globalization of the Olympics.
